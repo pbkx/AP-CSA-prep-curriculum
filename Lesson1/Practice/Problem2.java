@@ -3,6 +3,7 @@
 
 public class Problem2 {
     public static void main(String[] args) {
-
+        double y = 1.8;
+        System.out.println(y);
     }
 }

@@ -4,6 +4,9 @@
 
 public class Problem5 {
     public static void main(String[] args) {
-
+        String first = "Max";
+        String last = "C";
+        int age = 16;
+        System.out.println(first + last + age);
     }
 }

@@ -4,6 +4,8 @@
 
 public class Problem4 {
     public static void main(String[] args) {
-
+        String first = "Max";
+        String last = "C";
+        System.out.println(first + last + '\n');
     }
 }
